@@ -15,7 +15,6 @@ This is the official website for the Department of Computer Engineering, Faculty
     * _Recent or headlines_
   + Research Collaboration
     * _Topics_
-  
 - About
   + Vision
   + Mission

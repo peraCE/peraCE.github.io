@@ -45,4 +45,4 @@ This is the official website for the Department of Computer Engineering, Faculty
 
 ### Simple markup of home page
 
-
+![home page markup](https://github.com/peraCE/peraCE.github.io/blob/master/peraCE.jpg)

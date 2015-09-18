@@ -42,3 +42,7 @@ This is the official website for the Department of Computer Engineering, Faculty
 * light-blue - #039BE5
 * white - #FAFAFA
 * black - #181818
+
+### Simple markup of home page
+
+

@@ -25,15 +25,13 @@ This is the official website for the Department of Computer Engineering, Faculty
 - Academic Staff
   + Short discription
     * _links to Linnkedin, Research gate, google_ 
-- Student
-  + Prospective students
-    * _get details from linkedin API_
+- Students
   + Current Stdents
     * _links to linkedin_
   + Alumnai
-  + Courses
+    * _get details from linkedin API_
 - News
-- Research
+- Research & Courses
   + Industrial Partnerships
   + Research Collaboration
   
